@@ -8,19 +8,16 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 1.	Intialize the matrix Q and u
 2.	The vector u and e is given by
    <br>
-   ![image](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/ebb6ca40-06cf-40ab-a550-ee9cdc5d5e34)
+  ![Screenshot 2023-12-23 152643](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/104ef04b-965d-427f-8584-69e4ec2f3968)
    <br>
-   ![image](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/6c40cb44-e13c-44fc-83dc-d7ac15bd2442)
-    <br>
-   ![image](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/90b59cc1-cda6-4152-bf63-59acb725c009)
 
 4.	Obtain the Q matrix   
-    ![image](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/a4e8f03f-5fcd-4beb-abbc-1c049cf57717)
+   ![Screenshot 2023-12-23 152648](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/5babcbeb-b182-4fa2-b0a7-40b2befc1411)
 
 
 5.	Construct the upper triangular matrix R
    <br>
-   ![image](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/d5defc02-ccd4-4805-abed-a66295ae6c3c)
+   ![Screenshot 2023-12-23 152653](https://github.com/KeerthanaaSaravanan/EX-08_QRdecomposition/assets/145742596/e4e0aa6c-2f4f-403c-a0b3-b07de526ba60)
 
 ## Program:
 ### Gram-Schmidt Method
